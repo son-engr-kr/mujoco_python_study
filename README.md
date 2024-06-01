@@ -20,3 +20,7 @@ https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python
 
 https://youtube.com/playlist?list=PLc7bpbeTIk75dgBVd07z6_uKN1KQkwFRK&si=OX6GHRLtVaPqd-2G
 
+
+# 주의
+
+renderer를 두번 정의하면 두번째부터는 black screen만 생성됨
