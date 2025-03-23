@@ -7,3 +7,6 @@ __pycache__/
 /temp_*/
 
 /MUJOCO_LOG.TXT
+
+# vscode
+.vscode/
